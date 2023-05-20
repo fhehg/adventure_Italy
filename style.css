@@ -9,13 +9,13 @@ background-size:cover;
 baground-position:center;
 }
 .italy{
-background-image: url('images/image 2.jpg');
+background-image: url('./Images/image 2.jpg');
 }
 .italy2{
 background-image: url('./Images/image 2.jpg');
 }
 .italy{
-background-image: url('Images/Italia 2 slide 003 ilm 001.jpg');
+background-image: url('./Images/Italia 2 slide 003 ilm 001.jpg');
 }
 .slide__inner {
     display: flex;
@@ -24,7 +24,7 @@ background-image: url('Images/Italia 2 slide 003 ilm 001.jpg');
     align-items: flex-start;
 }
 .main{
-	background-image: url('Images/Italia 001 ilmage 001.jpg');
+	background-image: url('./Images/Italia 001 ilmage 001.jpg');
 	}
 
 
@@ -85,12 +85,12 @@ background-image:url('/Images/Rectangle 14.jpg');
 .second-banner__inner{
 width:100%;
 height:645px;
-background-image:url('images/Rectangle 7.jpg');
+background-image:url('./Images/Rectangle 7.jpg');
 }
 .third-banner__inner{
 width:100%;
 height:645px;
-background-image:url('images/Italia 007 ilmage 001.jpg');
+background-image:url('./Images/Italia 007 ilmage 001.jpg');
 }
 
 	
