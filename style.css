@@ -1,0 +1,97 @@
+body{font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;}
+.slide{
+width: 100%;
+height: 100vh;
+background-size:cover;
+baground-position:center;
+}
+.italy{
+background-image: url('images/image 2.jpg');
+}
+.italy2{
+background-image: url('images/image 2.jpg');
+}
+.italy{
+background-image: url('images/Italia 2 slide 003 ilm 001.jpg');
+}
+.slide__inner {
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    align-items: flex-start;
+}
+.main{
+	background-image: url('Images/Italia 001 ilmage 001.jpg');
+	}
+
+
+.slide__inner {
+    display: flex;
+    flex-direction: column;
+	height: 100%;
+}
+.slide__title{
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 64px;
+line-height: 77px;
+
+color: #FFB800;
+}
+.btn{
+	font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 36px;
+line-height: 44px;
+
+color: #000000;
+background: #FFB800;
+padding: 16px 57px 16px 68px;
+display:block;
+text-decoration:none;
+max-width: 500px
+}
+.main__inner{
+	display:flex;
+	height:100%;
+	flex-direction: column;
+    justify-content: center;
+}
+.container{
+		width: 100%;
+		max-width: 1300px;
+		margin: 0 auto;
+}
+.main__title{
+	font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 64px;
+line-height: 77px;
+
+color: #FF9900;
+
+}
+.first-banner{
+width:100%;
+height:645px;
+background-image:url('images/Rectangle 14.jpg');
+}
+.second-banner__inner{
+width:100%;
+height:645px;
+background-image:url('images/Rectangle 7.jpg');
+}
+.third-banner__inner{
+width:100%;
+height:645px;
+background-image:url('images/Italia 007 ilmage 001.jpg');
+}
+
+	
+	
